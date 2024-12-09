@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+
 
 const Customer = () => {
   return (
@@ -15,7 +15,7 @@ const Customer = () => {
             <p className="text-yellow-500 mt-2 text-sm">⭐⭐⭐⭐☆</p>
             <p className="text-gray-700 text-sm mt-1 font-medium">Sarah M.</p>
             <p className="text-lg text-gray-800 mt-4">
-            &quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.&quot;
+            &quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I&lsquo;ve bought has exceeded my expectations.&quot;
             </p>
           </div>
 

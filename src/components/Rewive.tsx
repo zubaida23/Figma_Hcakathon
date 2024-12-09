@@ -29,13 +29,13 @@ const Reviews = () => {
     {
       name: "Liam K.",
       date: "August 18, 2023",
-      review: "This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer’s skill. It’s like wearing a piece of art that reflects my passion for both design and fashion.",
+      review: "This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer&lsquo;s skill. It&lsquo;s like wearing a piece of art that reflects my passion for both design and fashion.",
       rating: 5,
     },
     {
       name: "Ava H.",
       date: "August 19, 2023",
-      review: "I’m not just wearing a t-shirt; I’m wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter.",
+      review: "I&lsquo;m not just wearing a t-shirt; I&lsquo;m wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter.",
       rating: 5,
     },
   ];

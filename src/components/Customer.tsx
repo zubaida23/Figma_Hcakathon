@@ -15,7 +15,7 @@ const Customer = () => {
             <p className="text-yellow-500 mt-2 text-sm">⭐⭐⭐⭐☆</p>
             <p className="text-gray-700 text-sm mt-1 font-medium">Sarah M.</p>
             <p className="text-lg text-gray-800 mt-4">
-              "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+            &quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.&quot;
             </p>
           </div>
 
@@ -24,7 +24,7 @@ const Customer = () => {
             <p className="text-yellow-500 mt-2 text-sm">⭐⭐⭐⭐⭐</p>
             <p className="text-gray-700 text-sm mt-1 font-medium">Alex K.</p>
             <p className="text-lg text-gray-800 mt-4">
-              "Amazing customer service and high-quality products. I've been a loyal customer for years and will continue to shop here."
+            &quot;Amazing customer service and high-quality products. I&apos;ve been a loyal customer for years and will continue to shop here.&quot;
             </p>
           </div>
 
@@ -33,7 +33,7 @@ const Customer = () => {
             <p className="text-yellow-500 mt-2 text-sm">⭐⭐⭐⭐☆</p>
             <p className="text-gray-700 text-sm mt-1 font-medium">James L.</p>
             <p className="text-lg text-gray-800 mt-4">
-              "The delivery was super fast, and the packaging was lovely. The product quality is top-notch! Highly recommended."
+            &quot;The delivery was super fast, and the packaging was lovely. The product quality is top-notch! Highly recommended.&quot;
             </p>
           </div>
 
@@ -42,7 +42,7 @@ const Customer = () => {
             <p className="text-yellow-500 mt-2 text-sm">⭐⭐⭐⭐⭐</p>
             <p className="text-gray-700 text-sm mt-1 font-medium">Michael T.</p>
             <p className="text-lg text-gray-800 mt-4">
-              "Shop.co never fails to impress. The variety of options and the attention to detail in every product are truly remarkable."
+            &quot;Shop.co never fails to impress. The variety of options and the attention to detail in every product are truly remarkable.&quot;
             </p>
           </div>
         </div>
